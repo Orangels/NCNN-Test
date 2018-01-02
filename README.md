@@ -9,7 +9,4 @@ The performance test for NCNN
 
 
  
- First Header | Second Header | Third Header
-:----------- | :-----------: | -----------:
-Left         | Center        | Right
-Left         | Center        | Right
+
